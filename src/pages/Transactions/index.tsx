@@ -24,7 +24,7 @@ export function Transactions(){
               <td>13/04/2022</td>
             </tr>
             <tr>
-              <td width="50%">Hambúrguer</td>
+              <td >Hambúrguer</td>
               <td>
                 <PriceHighlight variant="outcome">
                   - R$ 79,90
